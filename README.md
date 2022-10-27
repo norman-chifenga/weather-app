@@ -12,7 +12,7 @@ Find user location weather
 5 days forecast
 
 ![image info](./src/assets/img/weather_app.gif)
-
+git
 
 ### INSTRUCTIONS TO RUN tHIS APP
 
@@ -39,9 +39,9 @@ npm install
 To start the development mode run
 
 ```
-npm run dev
+npm start dev
 ```
 To build the application run
 ```
-npm run build
+npm start build
 ```
